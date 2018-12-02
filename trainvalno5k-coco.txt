@@ -1,0 +1,5 @@
+coco/images/000000.png
+coco/images/000008.png
+coco/images/000016.png
+coco/images/000024.png
+coco/images/000032.png
