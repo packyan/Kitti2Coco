@@ -1,4 +1,4 @@
-# COCO label to Kitti label
+# Kitti label trans to COCO label 
 
 ## this this a tool to tranfrom these two datasets labels.
 use`kitti2coco-label-trans.py' to tansfrom labels.
